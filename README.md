@@ -1,11 +1,11 @@
 # This-Is-My-Hello-World-Repo-
 
-##I Am Faze Adapt
+## I Am Faze Adapt
 
-###I Have 4 Million Subscribers On Youtube.
+### I Have 4 Million Subscribers On Youtube.
 
-*Faze
+*  Faze
 
-*Call Of Duty
+* Call Of Duty
 
-*Lil Uzi Vert
+* Lil Uzi Vert
